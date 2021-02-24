@@ -3,7 +3,7 @@
 ## English:
 #### Repository with codes that I wrote during my data science studies.
 
-### Sources:
+### Sources I used:
 - Docs:
   - [Python](https://docs.python.org)
   - [Pandas](https://pandas.pydata.org/docs)
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## Português:
 #### Repositório com códigos que escrevi enquanto estudo ciência de dados.
 
-### Fontes:
+### Fontes que usei:
 - Docs:
   - [Python](https://docs.python.org)
   - [Pandas](https://pandas.pydata.org/docs)
