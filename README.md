@@ -54,6 +54,7 @@ pip install -r requirements.txt
   - [PyGame](https://www.pygame.org/docs/)
   - [Matplotlib](https://matplotlib.org/stable/contents.html)
   - [Markdown Guide](https://www.markdownguide.org)
+  - [Pandas DataFrame - Exercises, Practice, Solution - w3resource](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php)
 - Videos:
   - [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)](https://youtu.be/GB9ByFAIAH4)
   - [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://youtu.be/vmEHCJofslg)
